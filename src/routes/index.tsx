@@ -306,8 +306,8 @@ function calendarLink() {
 
 const EVENTS = [
   { name: "Nikah Ceremony", tag: "The Sacred Vow", icon: "۞", date: "Sunday, 23 Aug 2026", time: "10:30 AM", venue: "Valapuram West Juma Masjid" },
-  { name: "Reception", tag: "Wedding Lunch", icon: "☾", date: "Sunday, 23 Aug 2026", time: "12:00 PM", venue: "Marhaba Auditorium, Valapuram" },
-  { name: "Walima Feast", tag: "Walima Day", icon: "✿", date: "Monday, 24 Aug 2026", time: "12:00 PM", venue: "Grand View Convention Centre, Nelloli, Chattiparamba" },
+  { name: "Reception", tag: "Wedding Lunch", icon: "☾", date: "Sunday, 23 Aug 2026", time: "11:30 AM", venue: "Marhaba Auditorium, Valapuram" },
+  { name: "Walima Feast", tag: "Walima Day", icon: "✿", date: "Monday, 24 Aug 2026", time: "11:30 AM", venue: "Grand View Convention Centre, Nelloli, Chattiparamba" },
 ];
 
 const FAMILIES = [
